@@ -1,9 +1,9 @@
 {
-  "name": "MusikVcg",
+  "name": "kadal musik 2",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "logo": "https://telegra.ph/file/40240a68a57a077930194.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/CollinFowel/MusikVcgV2",
+  "repository": "https://github.com/Chandrr18/kadalmusik2",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -40,7 +40,7 @@
     "BG_IMAGE": {
       "description": "Isi dengan link untuk custom background wajib PNG! [ABAIKAN INI KALO TIDAK NGERTI].",
       "required": false,
-      "value": " https://telegra.ph/file/1d14d4f7ac156f4b87dd0.png"
+      "value": " https://telegra.ph/file/1f7f0f68bca6de5875ae0.png"
     },
     "API_ID": {
       "description": "App ID dari my.telegram.org/apps",
