@@ -33,12 +33,12 @@ def _start(client, message):
                         "➕ Tambahkan Saya Ke Grup ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Group", url=f"https://t.me/IMPR0B4BL3"), 
+                        "📲 Group", url=f"https://t.me/joinchat/ZM-Euj4s180xODc1"), 
                     InlineKeyboardButton(
-                        "👤 Owner", url=f"https://t.me/rxsherli")
+                        "👤 Owner", url=f"https://t.me/racunpupus")
                 ],[
                     InlineKeyboardButton(
-                        "💬 Tanya tanya klik disini", url=f"https://t.me/CollinFowel")
+                        "💬 Tanya tanya klik disini", url=f"https://t.me/profvv")
                 ]
             ]
         ),
@@ -53,7 +53,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💬 Tanya tanya klik disini", url=f"https://t.me/CollinFowel"
+                        "💬 Tanya tanya klik disini", url=f"https://t.me/profvv"
                     )
                 ]
             ]
@@ -94,9 +94,9 @@ def map(pos):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
             [InlineKeyboardButton("➕ Tambahkan Saya Ke Grup ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '📲 Group', url=f"https://t.me/IMPR0B4BL3"),
-             InlineKeyboardButton(text = '👤 Owner', url=f"https://t.me/rxsherli")],
-            [InlineKeyboardButton(text = '💬 Tanya tanya klik disini', url=f"https://t.me/CollinFowel")],
+            [InlineKeyboardButton(text = '📲 Group', url=f"https://t.me/joinchat/ZM-Euj4s180xODc1"),
+             InlineKeyboardButton(text = '👤 Owner', url=f"https://t.me/racunpupus")],
+            [InlineKeyboardButton(text = '💬 Tanya tanya klik disini', url=f"https://t.me/profvv")],
             [InlineKeyboardButton(text = '◀️', callback_data = f"help+{pos-1}")]
         ]
     else:
