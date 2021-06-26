@@ -495,7 +495,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("Daftar Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("Join Sini", url="https://t.me/infble"),
+                    InlineKeyboardButton("Join Sini", url="https://t.me/joinchat/ZM-Euj4s180xODc1"),
                 ],
                 [InlineKeyboardButton(text="❌ Tutup", callback_data="cls")],
             ]
@@ -542,10 +542,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("Daftar Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("Join Sini", url="https://t.me/infble"),
+                    InlineKeyboardButton("Join Sini", url="https://t.me/joinchat/ZM-Euj4s180xODc1"),
                 ],
                 [
-                    InlineKeyboardButton(text="Owner", url="https://t.me/rxsherli"),
+                    InlineKeyboardButton(text="Owner", url="https://t.me/racunpupus"),
                     InlineKeyboardButton(text="Download", url=f"{dlurl}"),
                 ],
                 [InlineKeyboardButton(text="❌ Tutup", callback_data="cls")],
@@ -586,10 +586,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("Daftar Playlist", callback_data="playlist"),
-                    InlineKeyboardButton("Join Sini", url="https://t.me/infble"),
+                    InlineKeyboardButton("Join Sini", url="https://t.me/joinchat/ZM-Euj4s180xODc1"),
                 ],
                 [
-                    InlineKeyboardButton(text="Owner", url="https://t.me/rxsherli"),
+                    InlineKeyboardButton(text="Owner", url="https://t.me/racunpupus"),
                     InlineKeyboardButton(text="Download", url=f"{dlurl}"),
                 ],
                 [InlineKeyboardButton(text="❌ Tutup", callback_data="cls")],
@@ -720,9 +720,9 @@ async def deezer(client: Client, message_: Message):
         [
             [
                 InlineKeyboardButton("Daftar Playlist", callback_data="playlist"),
-                InlineKeyboardButton("Join Sini", url="https://t.me/infble"),
+                InlineKeyboardButton("Join Sini", url="https://t.me/joinchat/ZM-Euj4s180xODc1"),
             ],
-            [InlineKeyboardButton(text="Owner", url="https://t.me/rxsherli")],
+            [InlineKeyboardButton(text="Owner", url="https://t.me/racunpupus")],
             [InlineKeyboardButton(text="❌ Tutup", callback_data="cls")],
         ]
     )
@@ -847,11 +847,11 @@ async def jiosaavn(client: Client, message_: Message):
         [
             [
                 InlineKeyboardButton("Daftar Playlist", callback_data="playlist"),
-                InlineKeyboardButton("Join Sini", url="https://t.me/infble"),
+                InlineKeyboardButton("Join Sini", url="hhttps://t.me/joinchat/ZM-Euj4s180xODc1"),
             ],
             [
                 InlineKeyboardButton(
-                    text="Owner", url="https://t.me/rxsherli"
+                    text="Owner", url="https://t.me/racunpupus"
                 )
             ],
             [InlineKeyboardButton(text="❌ Tutup", callback_data="cls")],
