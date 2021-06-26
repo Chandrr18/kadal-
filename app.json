@@ -35,7 +35,7 @@
     "ARQ_API_KEY": {
       "description": "Ambil token mu dari @ARQRobot.",
       "required": false,
-      "value": "EAFVEZ-QBLYWJ-HIOIXM-BAAVLG-ARQ"
+      "value": "ECREBN-IXUUWS-RRWFDL-LYGXMC-ARQ"
     },    
     "BG_IMAGE": {
       "description": "Isi dengan link untuk custom background wajib PNG! [ABAIKAN INI KALO TIDAK NGERTI].",
