@@ -27,7 +27,7 @@
 
 ### ⛓️ Heroku 🔫
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CollinFowel/MusikVcgV2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chandrr18/kadalmusik2)
 
 Klik tombol dibawah untuk mengambil Pyrogram String Session
 
