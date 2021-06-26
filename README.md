@@ -31,7 +31,7 @@
 
 Klik tombol dibawah untuk mengambil Pyrogram String Session
 
-<a href="https://replit.com/@CollinFowel/StringSessionPyrogram#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://replit.com/@Chandrr18/StringSessionPyrogram#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
