@@ -7,7 +7,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@SNFMusicBot](https://t.me/SNFMusicBot)
+### Available on telegram as [@Kadalmusik_bot](https://t.me/Kadalmusik_bot)
 
 <h2> Features 🔥 </h2>
 
