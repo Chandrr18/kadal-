@@ -116,4 +116,4 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
 
 ### This Repo Managed By
-- [Collin](http://t.me/CollinFowel): Owner This Repo
+- [Collin](http://t.me/Racunpupus): Owner This Resky
