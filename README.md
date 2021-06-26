@@ -36,7 +36,7 @@ Klik tombol dibawah untuk mengambil Pyrogram String Session
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/CollinFowel/MusikVcgV2
+$ git clone https://github.com/Chandrr18/kadalmusik2
 $ cd MusikVcg
 # Upgrade sources
 # Install All Requirements 
