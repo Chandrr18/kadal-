@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Ambil Pyrogram String-Session di https://replit.com/@CollinFowel/StringSessionPyrogram#main.py",
+      "description": "Ambil Pyrogram String-Session di https://replit.com/@Chandrr18/StringSessionPyrogram#main.py",
       "required": true
     },
     "BOT_TOKEN": {
